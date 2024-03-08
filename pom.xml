@@ -57,6 +57,13 @@
     </dependency>
 
     <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>33.0.0-jre</version>
+      <!-- or, for Android: -->
+      <version>33.0.0-android</version>
+    </dependency>
+    <dependency>
        <groupId>org.jruby.jcodings</groupId>
        <artifactId>jcodings</artifactId>
        <version>1.0.57</version>
